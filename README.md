@@ -1,6 +1,6 @@
-**GitHub Repository:**
+**GitHub Repository:**[]
 
-**Live Website:**
+**Live Website:**[ https://vishale2207-creator.github.io/greenden-tailwind/]
 
 **Introducing my latest web development project — Greenden Website**
 
